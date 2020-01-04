@@ -5,7 +5,7 @@
 {{ end }}
 
 {{ if ( eq .Section "replaces") }}
-    {{ $title = print "Bye " $title }}
+    {{ $title = print ( i18n "listPrefixBye" ) " " $title }}
 {{ end }}
 
 {{ return $title }}

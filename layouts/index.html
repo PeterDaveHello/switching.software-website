@@ -15,14 +15,14 @@
 
         {{"<!-- filter buttons -->" | safeHTML }}
         <div class="filter-nav text-center mb-2">
-            <label class="btn mb-1 col-1 col-sm-2" for="tag-0">All</label>
+            <label class="btn mb-1 col-1 col-sm-2" for="tag-0">{{ i18n "indexFilterAll" }}</label>
             {{- range $i, $provider := $.Site.Params.homepage.filters }}
                 <label class="btn mb-1 col-2 col-sm-4" for="tag-{{ add $i 1 }}">{{ $provider | title }}</label>
                 {{- if (eq 0 (mod (add $i -1) 3)) -}}
                     <span><br class="show-sm"/></span>
                 {{ end }}
             {{ end }}
-            <label class="btn mb-1 col-1 col-sm-2" for="tag-{{ $others }}">...</label>
+            <label class="btn mb-1 col-1 col-sm-2" for="tag-{{ $others }}">{{ i18n "indexFilterOther" }}</label>
         </div>
     
         {{"<!-- entries -->" | safeHTML }}

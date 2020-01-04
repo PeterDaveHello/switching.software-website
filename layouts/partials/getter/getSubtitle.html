@@ -1,7 +1,7 @@
 {{ $subtitle := .Params.Subtitle }}
 
 {{ if ( eq .Section "replaces") }}
-    {{ $subtitle = print "Recommended " $subtitle }}
+    {{ $subtitle = print ( i18n "listPrefixRecommended" ) " " $subtitle }}
 {{ end }}
 
 {{ return $subtitle }}

@@ -1,0 +1,29 @@
+[headerAbout]
+    other = "Über"
+
+[indexFilterAll]
+    other = "Alle"
+
+[indexFilterOther]
+    other = "..."
+
+[footerBy]
+    other = "von"
+
+[footerFAQ]
+    other = "FAQ"
+
+[footerSupport]
+    other = "Support"
+
+[footerSource]
+    other = "Source"
+
+[footerMastodon]
+    other = "Mastodon"
+
+[listPrefixBye]
+    other = "Tschüss"
+
+[listPrefixRecommended]
+    other = "Empfohlene"
