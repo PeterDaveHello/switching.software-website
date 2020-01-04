@@ -1,7 +1,7 @@
 ---
-slug: whatsapp
-title: Ciao Whatsapp
-subtitle: Empfohlene Chatprogramme
+title: Whatsapp
+subtitle: Chatprogramme
+provider: facebook
 order: 
     - signal
     - xmpp

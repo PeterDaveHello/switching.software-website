@@ -7,7 +7,7 @@ replaces:
 ---
 You don’t need to use an external service at all. You can host your site’s fonts yourself and refer to them in the page’s code.
 
-There are many free open fonts which you can legally download, host and use on your own site without payment.
+There are many [free open][floss] fonts which you can legally download, host and use on your own site without payment.
 
 Most font download sites have a mixture of non-free and free fonts, so make sure you check each font’s licence before using it on your site. The ones you want are labelled “GPL”, “OFL” or “Public Domain”.
 
@@ -21,4 +21,5 @@ Also, you don’t actually have to use Google Fonts to use its fonts, because th
     - [Velvetyne](https://velvetyne.fr/)
 {{< /infobox >}}
 
+[floss]: {{< relref "/articles/free-libre-open-software" >}}
 [gfont-download]: https://google-webfonts-helper.herokuapp.com/fonts

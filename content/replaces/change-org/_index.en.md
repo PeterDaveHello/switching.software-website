@@ -1,7 +1,6 @@
 ---
-slug: change-org
-title: Bye Change.org
-subtitle: Recommended Petition Platforms
+title: Change.org
+subtitle: Petition Platforms
 aliases:
     - /ethical-alternatives-to-change-org/
 ---

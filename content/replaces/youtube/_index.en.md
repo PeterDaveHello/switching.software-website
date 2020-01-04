@@ -1,7 +1,7 @@
 ---
-slug: youtube
-title: Bye Youtube
-subtitle: Recommended Video Platforms
+title: Youtube
+subtitle: Video Platforms
+provider: google
 aliases:
     - /ethical-alternatives-to-youtube/
 ---

@@ -1,4 +1,4 @@
 ---
 title: All Entries
-subtitle: Recommended Software
+subtitle: Software
 ---

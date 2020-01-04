@@ -1,7 +1,7 @@
 ---
-slug: pocket
-title: Bye Pocket
-subtitle: Recommended Bookmark Services
+title: Pocket
+subtitle: Bookmark Services
+provider: mozilla
 aliases:
     - /ethical-alternatives-to-pocket/
 ---

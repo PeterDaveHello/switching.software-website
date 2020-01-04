@@ -1,4 +1,4 @@
 ---
 title: Wordpress Plugins
-subtitle: Recommended Extensions
+subtitle: Extensions
 ---

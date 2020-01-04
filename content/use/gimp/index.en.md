@@ -5,7 +5,7 @@ replaces:
     - adobe-cloud
 ---
 
-**GNU Image Manipulation Program** (short: GIMP) is one of the longest-running and best-supported free open graphics apps. It offers Photoshop-style raster graphics and photo editing for Windows, Mac and Linux.
+**GNU Image Manipulation Program** (short: GIMP) is one of the longest-running and best-supported [free open][floss] graphics apps. It offers Photoshop-style raster graphics and photo editing for Windows, Mac and Linux.
 
 Hint: With Glimpse, there also exists a variant with a less [mistakable name][gimp].
 
@@ -15,4 +15,5 @@ Hint: With Glimpse, there also exists a variant with a less [mistakable name][gi
     - [Download](https://www.gimp.org/downloads/)
 {{< /infobox >}}
 
+[floss]: {{< relref "/articles/free-libre-open-software" >}}
 [gimp]: https://en.wiktionary.org/wiki/gimp#Noun_2

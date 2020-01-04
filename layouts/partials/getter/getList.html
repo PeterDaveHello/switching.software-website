@@ -1,0 +1,7 @@
+{{ $list := . }}
+
+{{ if .Params.mirror }}
+    {{ $list = (.Site.GetPage .Params.mirror) }}
+{{ end }}
+
+{{ return $list }}

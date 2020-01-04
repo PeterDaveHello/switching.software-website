@@ -6,15 +6,18 @@
             </section>
         {{ end }}
         
-        {{/* Fixed-ordered entries first, rest second */}}
-        {{ $entries := slice }}
-        {{ range .Params.order }}
-            {{ $entries = $entries | append ($.Site.GetPage .) }}
-        {{ end }}
-        {{ $entries = $entries | append ( .Data.Pages | complement $entries ) }}
+        {{ $list := partial "getter/getList.html" . }}
+        {{ with $list }}
+            {{/* Fixed-ordered entries first, rest second */}}
+            {{ $entries := slice }}
+            {{ range .Params.order }}
+                {{ $entries = $entries | append ($.Site.GetPage .) }}
+            {{ end }}
+            {{ $entries = $entries | append ( .Data.Pages | complement $entries ) }}
 
-        {{ range $entries }}
-            {{ partial "entry.html" . }}
+            {{ range $entries }}
+                {{ partial "entry.html" . }}
+            {{ end }}
         {{ end }}
     </article>
 {{ end }}

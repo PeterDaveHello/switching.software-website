@@ -1,7 +1,6 @@
 ---
-slug: twitter
-title: Ciao Twitter
-subtitle: Empfohlene Kurzmitteilungsdienste
+title: Twitter
+subtitle: Kurzmitteilungsdienste
 order: 
     - mastodon
     - friendica

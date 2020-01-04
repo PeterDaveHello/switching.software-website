@@ -1,7 +1,7 @@
 ---
-slug: google-maps
-title: Bye Google Maps
-subtitle: Recommended Mapping Services
+title: Google Maps
+subtitle: Mapping Services
+provider: google
 aliases:
     - /ethical-alternatives-to-google-maps/
 ---

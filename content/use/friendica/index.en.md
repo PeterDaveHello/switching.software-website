@@ -9,7 +9,7 @@ list:
     - f-droid
 ---
 
-**Friendica** is a Facebook-style social network with similar features including events and photo albums. Like Mastodon, Friendica is made up of many smaller sites linked together through [federation][federation]. The smaller sites that make up the Friendica network are called “nodes”.
+**Friendica** is a Facebook-style social network with similar features including events and photo albums. Like Mastodon, Friendica is made up of many smaller sites linked together through [federation][fediverse]. The smaller sites that make up the Friendica network are called “nodes”.
 
 Friendica is also connected to [Mastodon][mastodon], Diaspora, [PixelFed][pixelfed], [PeerTube][peertube] and many other alternative social networks, so you can make friends with people on all those networks too.
 
@@ -26,7 +26,7 @@ If you decide to sign up, you can register at the sites below. You might also wa
     - [DiCa](https://play.google.com/store/apps/details?id=cool.mixi.dica&noprocess)
 {{< /infobox >}}
 
-[federation]: https://web.archive.org/web/20190508232759/https://switching.social/federated-sites/
+[fediverse]: {{< relref "/articles/federated-sites" >}}
 [mastodon]: {{< relref "/use/mastodon" >}}
 [pixelfed]: {{< relref "/use/pixelfed" >}}
 [peertube]: {{< relref "/use/peertube" >}}

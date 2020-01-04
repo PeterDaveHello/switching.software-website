@@ -7,9 +7,9 @@ replaces:
 
 **Write Freely** is a blogging service like Medium where the focus is on the text itself, with a clean uncluttered aesthetic.
 
-The site is open source and extremely privacy-friendly, collecting the absolute minimum amount of information needed for it to work.
+The site is [open source][floss] and extremely privacy-friendly, collecting the absolute minimum amount of information needed for it to work.
 
-Write Freely has just started federating using the ActivityPub standard, so you can follow Write Freely blogs through e.g. Mastodon account.
+Write Freely has just started [federating][fediverse] using the ActivityPub standard, so you can follow Write Freely blogs through e.g. Mastodon account.
 
 {{< infobox >}}
 - **Sign up:** 
@@ -27,3 +27,6 @@ Write Freely has just started federating using the ActivityPub standard, so you 
 - **Website:**
     - [WriteFreely.org](https://writefreely.org/)
 {{< /infobox >}}
+
+[fediverse]: {{< relref "/articles/federated-sites" >}}
+[floss]: {{< relref "/articles/free-libre-open-software" >}}

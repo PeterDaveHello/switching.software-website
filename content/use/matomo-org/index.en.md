@@ -14,4 +14,4 @@ Matomo’s software is free and [open source][floss], so anyone can install and 
     - [matomo.org](https://matomo.org)
 {{< /infobox >}}
 
-[floss]: https://web.archive.org/web/20180904102804/https://switching.social/what-is-open-source-software/
+[floss]: {{< relref "/articles/free-libre-open-software" >}}

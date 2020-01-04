@@ -1,5 +1,5 @@
 ---
-slug: photobucket
-title: Bye Photobucket
-subtitle: Recommended Image Platforms
+title: Photobucket
+subtitle: Image Platforms
+mirror: /replaces/imgur
 ---

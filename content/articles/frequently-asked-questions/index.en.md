@@ -59,7 +59,7 @@ In most cases, no, that cannot happen.
 
 Most of the alternatives listed on here are technologically and legally structured in a way that means they cannot be bought or sold.
 
-The social networks listed are [federated][federated-sites], which means there is no single site to buy, just thousands of independent sites linked together. Even if a particular site is sold, its users can move to another independent site on the same network. It would be virtually impossible for anyone to take control of the network as a whole.
+The social networks listed are [federated][fediverse], which means there is no single site to buy, just thousands of independent sites linked together. Even if a particular site is sold, its users can move to another independent site on the same network. It would be virtually impossible for anyone to take control of the network as a whole.
 
 On top of all this, the software used is released under perpetual [free open licences][floss] that make it legally impossible for it to be purchased.
 
@@ -72,7 +72,7 @@ The Maps.me site was bought by the Russian tech giant Mail.Ru in 2014. Nowadays 
 [advanced]: {{< relref "/lists/advanced-users" >}}
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/
 [codeberg-issue]: https://codeberg.org/swiso-en/website/issues
-[federated-sites]: {{< relref "/articles/federated-sites" >}}
+[fediverse]: {{< relref "/articles/federated-sites" >}}
 [floss]: {{< relref "/articles/free-libre-open-software" >}}
 [support-us]: {{< relref "/articles/support-us" >}}
 [swiso-mastodon]: https://mstdn.swiso.org/@switchingsoftware

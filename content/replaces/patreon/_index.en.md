@@ -1,7 +1,6 @@
 ---
-slug: patreon
-title: Bye Patreon
-subtitle: Recommended Donation Platforms
+title: Patreon
+subtitle: Donation Platforms
 aliases:
     - /ethical-alternatives-to-patreon/
 ---

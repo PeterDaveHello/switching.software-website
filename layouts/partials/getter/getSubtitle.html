@@ -1,0 +1,7 @@
+{{ $subtitle := .Params.Subtitle }}
+
+{{ if ( eq .Section "replaces") }}
+    {{ $subtitle = print "Recommended " $subtitle }}
+{{ end }}
+
+{{ return $subtitle }}

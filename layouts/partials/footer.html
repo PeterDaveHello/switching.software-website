@@ -1,21 +1,22 @@
 <footer id="footer" class="text-center bg-gray p-2">
     <div class="container grid-md">
-        <small>
-            <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC-BY-SA 4.0</a>
-            by <a href="{{ "/" | relLangURL }}">switching.software</a>
-            &amp; <a href="https://web.archive.org/web/20190915101437/https://switching.social/" target="_blank">switching.social</a> |
-            <a href="{{ "/about" | relLangURL }}">About</a><br>
-        {{ with .GitInfo }}            
-            <em>
-                last edited on {{ dateFormat "2006-01-02 15:04:05 MST" .AuthorDate.UTC }}
-                by <a href="https://codeberg.org/{{ .AuthorName }}?tab=activity" title="Profile of {{ .Subject }}" target="_blank" rel="noopener noreferrer">
-                    {{ .AuthorName }}
-                </a>
-                via <a href="https://codeberg.org/swiso-en/website/commit/{{ .Hash }}" title="{{ .Subject }}" target="_blank" rel="noopener noreferrer">
-                    {{ .AbbreviatedHash }}
-                </a>
-            </em>
-        {{ end }}
-        </small>
+        <div class="columns">
+            <div class="column col-md-12 col-7">
+                <small>
+                    <a title="Link to our License" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC-BY-SA 4.0</a> 
+                    by <a title="About this website" href="{{ "/about" | relLangURL }}">switching.software</a>
+                    + <a title="switching.social on web archive" href="https://web.archive.org/web/20190915101437/https://switching.social/" target="_blank" rel="noopener">switching.social</a>
+                    + <a title="We say Thank You" href="{{ "/thanks" | relLangURL }}" > &#10084; </a>
+                </small>
+            </div>
+            <div class="column col-md-12 col-5">
+                <small>
+                    <a href="{{ "/faq" | relLangURL }}" title="Frequently Asked Questionss">FAQ</a> |
+                    <a href="{{ "/support" | relLangURL }}" title="How to support us">Support</a> |
+                    <a href="https://codeberg.org/swiso-en/website?lang=en-US" title="Git repository on Codeberg.org" target="_blank" rel="noopener">Source</a> |
+                    <a rel="me" href="https://mstdn.swiso.org/@switchingsoftware" title="Follow us on Mastodon" target="_blank" rel="noopener">Mastodon</a>
+                </small>
+            </div>
+        </div>
     </div>
 </footer>

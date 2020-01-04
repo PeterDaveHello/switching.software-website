@@ -9,7 +9,7 @@ aliases:
 
 ### Following this site
 
-You can follow switching.software on the Fediverse via [our Mastodon account][swiso-mastodon]. Other channels may follow in the future.
+You can follow switching.software on the [Fediverse][fediverse] via [our Mastodon account][swiso-mastodon]. Other channels may follow in the future.
 
 ### Origin of this site
 

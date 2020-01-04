@@ -1,6 +1,6 @@
 ---
 title: All-in-One services
-subtitle: Recommended platforms
+subtitle: platforms
 aliases:
     - /all-in-one-alternatives/
 ---

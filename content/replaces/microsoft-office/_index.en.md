@@ -1,7 +1,7 @@
 ---
-slug: microsoft-office
-title: Bye Microsoft Office
-subtitle: Recommended Office Suites
+title: Microsoft Office
+subtitle: Office Suites
+provider: microsoft
 aliases:
     - /ethical-alternatives-to-microsoft-office/
 ---

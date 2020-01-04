@@ -1,7 +1,7 @@
 ---
-slug: gmail
-title: Bye GMail
-subtitle: Recommended E-Mail Providers
+title: GMail
+subtitle: E-Mail Providers
+provider: google
 order:
     - tutanota
     - protonmail

@@ -1,11 +1,6 @@
 ---
-slug: facebook-messenger
-title: Bye Facebook Messenger
-subtitle: Recommended Instant Messengers
-order: 
-    - signal
-    - zom
-    - quicksy
-    - xmpp
-    - riot
+title: Facebook Messenger
+subtitle: Instant Messengers
+provider: facebook
+mirror: /replaces/whatsapp
 ---

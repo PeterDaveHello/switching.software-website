@@ -1,4 +1,10 @@
+
 <div id="hero" class="text-center">
-    <h1 class="mb-0">{{ .Params.Title | default .Page.Title }}</h1>
-    <h2><strong>{{ .Params.Subtitle }}</strong></h2>
+    {{- with partial "getter/getTitle.html" . }}
+    <h1 class="mb-0">{{ . }}</h1>
+    {{- end }}
+
+    {{- with partial "getter/getSubtitle.html" . }}
+    <h2><strong>{{ . }}</strong></h2>
+    {{- end }}
 </div>

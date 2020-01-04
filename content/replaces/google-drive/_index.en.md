@@ -1,7 +1,8 @@
 ---
 slug: google-drive
-title: Bye Google Drive & Docs
-subtitle: Recommended Productivity Suites
+title: Google Drive & Docs
+subtitle: Productivity Suites
+provider: google
 order:
     - nextcloud
 aliases:

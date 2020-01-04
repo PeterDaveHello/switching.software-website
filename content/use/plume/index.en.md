@@ -5,7 +5,7 @@ replaces:
     - medium
 ---
 
-**Plume** is an open source federated blogging platform, which lets you create a federated blog. This means it can be followed from Mastodon and other social networks powered by the ActivityPub standard.
+**Plume** is an [open source][floss] [federated][fediverse] blogging platform, which lets you create a federated blog. This means it can be followed from Mastodon and other social networks powered by the ActivityPub standard.
 
 {{< infobox >}}
 - **Sign up:** 
@@ -16,3 +16,6 @@ replaces:
 - **Website:**
     - [Joinplu.me](https://joinplu.me/)
 {{< /infobox >}}
+
+[fediverse]: {{< relref "/articles/federated-sites" >}}
+[floss]: {{< relref "/articles/free-libre-open-software" >}}

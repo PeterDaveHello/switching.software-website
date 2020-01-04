@@ -1,7 +1,7 @@
 ---
-slug: google-calendar
-title: Bye Google Calendar
-subtitle: Recommended Calendar Services
+title: Google Calendar
+subtitle: Calendar Services
+provider: google
 order:
     - nextcloud
     - kolab-now

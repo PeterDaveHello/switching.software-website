@@ -2,7 +2,7 @@
 title: RSS - Really Simple Syndication
 icon: icon.png
 replaces: 
-    - google-newsk
+    - google-news
 ---
 **RSS** stands for “Really Simple Syndication”, and is the most popular and well-established standard for distributing news on the internet. It has no tracking, no ads, no algorithms, and you have complete control over what you see in it. In effect, it lets you build your own private news site or app.
 

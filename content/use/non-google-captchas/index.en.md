@@ -1,5 +1,4 @@
 ---
-slug: non-google-captchas
 title: Non-Google Captchas
 icon: clueless-robot.svg
 replaces:

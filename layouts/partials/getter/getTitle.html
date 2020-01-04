@@ -1,0 +1,11 @@
+{{ $title := .Page.Title }}
+
+{{ with .Params.Title }}
+    {{ $title = . }}
+{{ end }}
+
+{{ if ( eq .Section "replaces") }}
+    {{ $title = print "Bye " $title }}
+{{ end }}
+
+{{ return $title }}

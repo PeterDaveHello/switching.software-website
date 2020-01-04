@@ -1,7 +1,7 @@
 ---
-slug: minecraft
-title: Bye Minecraft
-subtitle: Recommended Building Block Games
+title: Minecraft
+subtitle: Building Block Games
+provider: microsoft
 aliases:
     - /ethical-alternatives-to-minecraft/
 ---

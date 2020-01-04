@@ -1,7 +1,7 @@
 ---
-slug: whatsapp
-title: Bye Whatsapp
-subtitle: Recommended Instant Messengers
+title: Whatsapp
+subtitle: Instant Messengers
+provider: facebook
 order: 
     - signal
     - xmpp

@@ -1,7 +1,7 @@
 ---
-slug: facebook-messenger
-title: Ciao Facebook Messenger
-subtitle: Empfohlene Chatsoftware
+title: Facebook Messenger
+subtitle: Chatsoftware
+provider: facebook
 order: 
     - signal
     - xmpp

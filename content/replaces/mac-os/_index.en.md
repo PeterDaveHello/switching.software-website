@@ -1,7 +1,8 @@
 ---
 slug: mac-os
-title: Bye macOS
-subtitle: Recommended Operating Systems
+title: macOS
+subtitle: Operating Systems
+provider: apple
 order:
     - distrochooser
     - ubuntu

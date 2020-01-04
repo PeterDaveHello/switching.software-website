@@ -1,7 +1,6 @@
 ---
-slug: medium
-title: Bye Medium
-subtitle: Recommended Publishing Platforms
+title: Medium
+subtitle: Publishing Platforms
 order:
     - write-freely
     - plume

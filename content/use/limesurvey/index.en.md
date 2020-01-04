@@ -14,5 +14,5 @@ The self-hosted version is completely free of charge, while the version hosted b
     - [LimeSurvey.org](https://limesurvey.org/)
 {{< /infobox >}}
 
-[floss]: https://web.archive.org/web/20180904102804/https://switching.social/what-is-open-source-software/
+[floss]: {{< relref "/articles/free-libre-open-software" >}}
 [limesurvey]: https://limesurvey.org/

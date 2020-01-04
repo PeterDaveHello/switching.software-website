@@ -5,7 +5,7 @@ lists:
     - wip
 ---
 
-**Carnet** is a free open alternative to Google Keep, featuring notetaking, todo lists, images, audio and syncing with [NextCloud][nextcloud], with Google Drive support planned. 
+**Carnet** is a [free open][floss] alternative to Google Keep, featuring notetaking, todo lists, images, audio and syncing with [NextCloud][nextcloud], with Google Drive support planned. 
 
 It’s still in beta testing. Carnet is currently available for Android, Linux and NextCloud.
 
@@ -18,4 +18,5 @@ It’s still in beta testing. Carnet is currently available for Android, Linux a
     - [Linux](https://snapcraft.io/carnet)
 {{< /infobox >}}
 
+[floss]: {{< relref "/articles/free-libre-open-software" >}}
 [nextcloud]: {{< relref "/use/nextcloud" >}}

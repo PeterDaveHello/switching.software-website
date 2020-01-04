@@ -1,7 +1,7 @@
 ---
-slug: google-news
-title: Bye Google News
-subtitle: Recommended News Service
+title: Google News
+subtitle: News Service
+provider: google
 aliases:
     - /ethical-alternatives-to-google-news/
 ---

@@ -1,7 +1,6 @@
 ---
-slug: steam
-title: Bye Steam
-subtitle: Recommended Video Games Platform
+title: Steam
+subtitle: Video Games Platform
 order:
     - good-old-games
     - itch-io
