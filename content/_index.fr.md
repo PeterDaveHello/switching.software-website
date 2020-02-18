@@ -1,6 +1,6 @@
 ---
-title: cyber-transition
+title: switching.software
 subtitle: Alternatives éthiques aux applications et sites privateurs
 ---
 
-[Comment faire la transition]({{< relref "/articles/howto-switch" >}}) de ...
+[Comment sortir]({{< relref "/articles/howto-switch" >}}) de ...
