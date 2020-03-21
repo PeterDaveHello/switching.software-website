@@ -1,6 +1,6 @@
 baseURL= "https://switching.software/"
 title= "switching.software"
-description= "" 
+description= ""
 
 DefaultContentLanguage = "en"
 enableGitInfo = true
@@ -29,6 +29,6 @@ enableGitInfo = true
     [languages.en]
         title = "switching.software"
         weight = 1
-    # [languages.de]
-    #     title = "switchingsocial.de"
-    #     weight = 2
+    [languages.de]
+        title = "switching.software"
+        weight = 2
