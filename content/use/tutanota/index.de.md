@@ -6,15 +6,15 @@ replaces:
     - google-calendar
 ---
 
-**Tutanota** is an encrypted email and calendar service based in Germany, with no advertising and the emphasis on privacy. The basic account is free, with paid-for accounts that have more features and storage. They also have their own apps for Android and iOS as well as desktop clients for Windows, macOS and Linux.
+**Tutanota** ist ein verschlüsselter E-Mail- und Kalender-Dienst aus Deutschland, der keine Werbung zeigt und großen Wert auf Datenschutz legt. Die Basisversion ist kostenlos, bezahlte Accounts haben mehr Funktionen und größere Speicherkapazität. Tutanota bietet eigene Apps für Android und iOS an sowie eine Desktop-Version für Windows, macOS und Linux.
 
 {{< infobox >}}
 - **Website:** 
     - [Tutanota](https://www.tutanota.com/)
-- **Android App:** 
+- **Android-App:** 
     - [Tutanota](https://play.google.com/store/apps/details?id=de.tutao.tutanota) ([FDroid](https://f-droid.org/en/packages/de.tutao.tutanota/))
-- **iOS App:** 
+- **iOS-App:** 
     - [Tutanota](https://apps.apple.com/app/tutanota/id922429609)
-- **Desktop client:**
+- **Desktop-Client:**
     - [Tutanota](https://tutanota.com/#download)
 {{< /infobox >}}

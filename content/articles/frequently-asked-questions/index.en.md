@@ -71,7 +71,7 @@ The Maps.me site was bought by the Russian tech giant Mail.Ru in 2014. Nowadays 
 
 [advanced]: {{< relref "/lists/advanced-users" >}}
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/
-[codeberg-issue]: https://codeberg.org/swiso-en/website/issues
+[codeberg-issue]: https://codeberg.org/swiso/website/issues
 [fediverse]: {{< relref "/articles/federated-sites" >}}
 [floss]: {{< relref "/articles/free-libre-open-software" >}}
 [support-us]: {{< relref "/articles/support-us" >}}

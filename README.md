@@ -2,13 +2,13 @@
 
 _Ethical, easy-to-use and privacy-conscious alternatives to well-known software_
 
-[Website](https://switching.software) | [Contribution Guidelines](https://codeberg.org/swiso-en/website/src/branch/develop/CONTRIBUTING.md) | [Code of Conduct](https://codeberg.org/swiso-en/website/src/branch/develop/CODE_OF_CONDUCT.md) | [License](https://creativecommons.org/licenses/by-sa/4.0/)
+[Website](https://switching.software) | [Contribution Guidelines](https://codeberg.org/swiso/website/src/branch/develop/CONTRIBUTING.md) | [Code of Conduct](https://codeberg.org/swiso/website/src/branch/develop/CODE_OF_CONDUCT.md) | [License](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Contribute
 
-We highly **appreciate your proposals** and ideas for new content. Please refer to [our Contribution Guidelines](https://codeberg.org/swiso-en/website/src/branch/develop/CONTRIBUTING.md) before submitting issues or pull requests.
+We highly **appreciate your proposals** and ideas for new content. Please refer to [our Contribution Guidelines](https://codeberg.org/swiso/website/src/branch/develop/CONTRIBUTING.md) before submitting issues or pull requests.
 
-As you might notice, this project has a lot of content. So please, have a look around and [open an issue](https://codeberg.org/swiso-en/website/issues/new) in case you find mistakes, broken links or deprecated information.
+As you might notice, this project has a lot of content. So please, have a look around and [open an issue](https://codeberg.org/swiso/website/issues/new) in case you find mistakes, broken links or deprecated information.
 
 ## Developing
 

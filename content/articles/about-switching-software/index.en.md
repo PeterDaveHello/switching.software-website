@@ -33,6 +33,6 @@ This site collects no data on its visitors. There are no analytics, no cookies a
 [fediverse]: {{< relref "/articles/federated-sites" >}}
 [swiso-archive]: https://codeberg.org/swiso-en/archive
 [swiso-mastodon]: https://mstdn.swiso.org/@switchingsoftware
-[swiso-repo]: https://codeberg.org/swiso-en/website
+[swiso-repo]: https://codeberg.org/swiso/website
 [switching.social]: https://web.archive.org/web/20190915101437/https://switching.social/
 [thanks]: {{< relref "/articles/thanks" >}}

@@ -7,7 +7,7 @@ A warm welcome to everyone thinking about supporting this project. Please read t
 - Be nice and respectful.
 - English only.
 - Be constructive.
-- See also our [Code of Conduct](https://codeberg.org/swiso-en/website/src/branch/main/CODE_OF_CONDUCT.md)
+- See also our [Code of Conduct](https://codeberg.org/swiso/website/src/branch/main/CODE_OF_CONDUCT.md)
 
 ## Criteria for Software
 
@@ -77,5 +77,5 @@ If everything's fine, it gets merged into the "develop" branch. The changes can 
 [fork]: https://codeberg.org/repo/fork/1574
 [hugo-install]: https://gohugo.io/getting-started/installing/
 [hugo-live]: https://gohugo.io/getting-started/usage/#livereload
-[issues]: https://codeberg.org/swiso-en/website/issues
+[issues]: https://codeberg.org/swiso/website/issues
 [swiso-masto]: https://mstdn.swiso.org/@switchingsoftware

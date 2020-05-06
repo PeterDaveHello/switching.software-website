@@ -30,6 +30,6 @@ If you have (or create) an account on [Codeberg][codeberg], check out our [websi
 
 [bye-swiso]: {{< relref "/replaces/switching-software" >}}
 [codeberg]: https://codeberg.org/
-[issues]: https://codeberg.org/swiso-en/website/issues
+[issues]: https://codeberg.org/swiso/website/issues
 [mastodon]: https://mstdn.swiso.org/@switchingsoftware
-[repository]: https://codeberg.org/swiso-en/website
+[repository]: https://codeberg.org/swiso/website

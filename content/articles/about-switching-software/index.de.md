@@ -45,7 +45,7 @@ Diese Seite sammelt keine Daten über Besuchende. Es werden keine Tracker, keine
 [fediverse]: {{< relref "/articles/federated-sites" >}}
 [swiso-archive]: https://codeberg.org/swiso-en/archive
 [swiso-mastodon]: https://mstdn.swiso.org/@switchingsoftware
-[swiso-repo]: https://codeberg.org/swiso-en/website
+[swiso-repo]: https://codeberg.org/swiso/website
 [swisoc-about]: https://web.archive.org/web/20190730203805/https://switching.social/about-this-site/
 [switching.social]: https://web.archive.org/web/20190915101437/https://switching.social/
 [thanks]: /page/thanks
