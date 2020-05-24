@@ -1,0 +1,74 @@
+{{ define "main" }}
+    <div id="intro" class="text-center">
+        {{ .Content }}
+    </div>
+
+    <div id="filter" class="filter">
+        {{"<!-- hidden radio buttons for filters -->" | safeHTML }}
+        <input type="radio" id="tag-0" class="filter-tag" name="filter-radio" hidden checked="true">
+        {{ range $i, $provider := $.Site.Params.homepage.filters -}}
+            <input type="radio" id="tag-{{ add $i 1 }}" class="filter-tag" name="filter-radio" hidden>
+        {{ end }}
+
+        {{- $others := add 1 ( len $.Site.Params.homepage.filters ) -}}
+        <input type="radio" id="tag-{{ $others }}" class="filter-tag" name="filter-radio" hidden>
+
+        {{"<!-- filter buttons -->" | safeHTML }}
+        <div class="filter-nav text-center mb-2">
+            <label class="btn mb-1 col-1 col-sm-2" for="tag-0">{{ i18n "indexFilterAll" }}</label>
+            {{- range $i, $provider := $.Site.Params.homepage.filters }}
+                <label class="btn mb-1 col-2 col-sm-4" for="tag-{{ add $i 1 }}">{{ $provider | title }}</label>
+                {{- if (eq 0 (mod (add $i -1) 3)) -}}
+                    <span><br class="show-sm"/></span>
+                {{ end }}
+            {{ end }}
+            <label class="btn mb-1 col-1 col-sm-2" for="tag-{{ $others }}">{{ i18n "indexFilterOther" }}</label>
+        </div>
+
+        {{"<!-- entries -->" | safeHTML }}
+        <div class="filter-body columns pb-2">
+            {{ range .Site.Taxonomies.replaces -}}
+                {{- $index := $others -}}
+                {{- with $provider := .Page.Params.provider -}}
+                    {{- range $i, $p := $.Site.Params.homepage.filters -}}
+                        {{- if eq $provider $p -}}
+                            {{- $index = add $i 1 -}}
+                        {{- end -}}
+                    {{- end -}}
+                {{- end }}
+
+                <div class="column col-4 col-md-6 col-sm-10 mx-auto filter-item p-1" data-tag="tag-{{ $index }}">
+                    <div class="card">
+                        <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }}">
+                            <span class="card-header d-block">
+                                <span class="card-title text-bold d-block">{{ .Page.Title }}</span>
+                                <span class="d-none">(</span><span class="card-subtitle text-dark d-block"><small>{{ .Page.Params.Subtitle }}</small></span><span class="d-none">)</span>
+                            </span>
+                        </a>
+                    </div>
+                 </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <div id="{{ i18n "indexMoreAnchor" }}" class="divider text-center" data-content="{{ i18n "indexMoreTitle" | upper }}">
+        <hr class="d-none">
+    </div>
+
+    <div class="columns mb-2">
+        {{ range .Site.Pages -}}
+            {{- if .Params.featured }}
+                <div class="column col-4 col-md-6 col-sm-10 mx-auto p-1">
+                    <div class="card">
+                        <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }}">
+                            <span class="card-header d-block">
+                                <span class="card-title text-bold d-block">{{ .Page.Title }}</span>
+                                <span class="d-none">(</span><span class="card-subtitle text-dark d-block"><small>{{ .Page.Params.Subtitle }}</small></span><span class="d-none">)</span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            {{ end -}}
+        {{- end }}
+    </div>
+{{ end }}
