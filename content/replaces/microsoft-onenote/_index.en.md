@@ -6,4 +6,5 @@ order:
     - standard-notes
     - joplin
     - nextcloud-notes
+    - handwritten-notes
 ---
