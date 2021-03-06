@@ -8,7 +8,7 @@ replaces:
 **Firefox Send** is an easy-to-use ephemeral end-to-end encrypted file sharing service from the makers of the independent [open source][floss] web browser.
 
 {{< infobox >}}
-- **Upload files:**
+- **Instances:**
     - [drop.chapril.org](https://drop.chapril.org/)
     - [send.vis.ee](https://send.vis.ee/)
 {{< /infobox >}}
