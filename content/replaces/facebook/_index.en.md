@@ -5,6 +5,7 @@ provider: facebook
 order: 
     - mastodon
     - friendica
+    - mobilizon
 aliases:
     - /ethical-alternatives-to-facebook/
 ---
