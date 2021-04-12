@@ -7,7 +7,6 @@ order:
     - matrix
     - xmpp
     - quicksy
-    - zom
 aliases:
     - /ethical-alternatives-to-whatsapp-and-skype/
 ---
