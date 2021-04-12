@@ -4,10 +4,10 @@ subtitle: Instant Messengers
 provider: facebook
 order:
     - signal
+    - matrix
     - xmpp
     - quicksy
     - zom
-    - matrix
 aliases:
     - /ethical-alternatives-to-whatsapp-and-skype/
 ---
