@@ -1,8 +1,10 @@
 ---
-title: Send (Forked from Firefox Send)
+title: Send
 icon: icon.svg
 replaces: 
     - wetransfer
+aliases:
+    - firefox-send
 ---
 
 **Send** is an easy-to-use ephemeral end-to-end encrypted file sharing service. Originally developed by Mozilla, it was forked and is now maintained by the community.
