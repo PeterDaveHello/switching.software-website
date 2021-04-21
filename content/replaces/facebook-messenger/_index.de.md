@@ -5,5 +5,4 @@ provider: facebook
 order: 
     - signal
     - xmpp
-    - quicksy
 ---

@@ -6,7 +6,6 @@ order:
     - signal
     - matrix
     - xmpp
-    - quicksy
 aliases:
     - /ethical-alternatives-to-whatsapp-and-skype/
 ---

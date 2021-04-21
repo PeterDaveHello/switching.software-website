@@ -10,8 +10,6 @@ replaces:
 
 Because it’s federated, there are lots of sites you can register on. It doesn’t matter if your friends sign up on a different site, all the sites talk to each other.
 
-If these apps and sites are too complicated, try the much easier Zom and Quicksy alternatives. They’re part of the XMPP network as well.
-
 {{< infobox >}}
 - **Sign up:**
     - [chinwag.im](https://chinwag.im/)
