@@ -12,6 +12,8 @@ In some countries, popular petitions may trigger a parliamentary debate or even 
 {{< infobox >}}
 - **Brazil:** 
     - [Ideia Legislativa](https://www12.senado.leg.br/ecidadania/principalideia)
+- **Denmark:**
+    - [Folketinget Borgerforslag](https://www.borgerforslag.dk/)
 - **European Union:**
     - [European Citizens’ Initiative](https://ec.europa.eu/citizens-initiative)
 - **Finland:**
